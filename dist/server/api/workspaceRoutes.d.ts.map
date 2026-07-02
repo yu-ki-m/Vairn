@@ -1,0 +1,1 @@
+{"version":3,"file":"workspaceRoutes.d.ts","sourceRoot":"","sources":["../../../server/src/api/workspaceRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAE/C,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,2BAA2B,CAAC;AAC9D,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAMnE,eAAO,MAAM,uBAAuB,GAClC,QAAQ,eAAe,EACvB,SAAS,YAAY,EACrB,SAAS,cAAc,kBA4DxB,CAAC"}

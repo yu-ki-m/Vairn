@@ -1,0 +1,1 @@
+{"version":3,"file":"realtimeRoutes.d.ts","sourceRoot":"","sources":["../../../server/src/api/realtimeRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAG/C,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,2BAA2B,CAAC;AAK9D,eAAO,MAAM,sBAAsB,GAAU,QAAQ,eAAe,EAAE,QAAQ,YAAY,kBAyDzF,CAAC"}

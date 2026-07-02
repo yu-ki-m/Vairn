@@ -1,0 +1,1 @@
+{"version":3,"file":"workspaceDeleteService.d.ts","sourceRoot":"","sources":["../../../server/src/workspace/workspaceDeleteService.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,0BAA0B,CAAC;AAEpE,qBAAa,sBAAsB;IACrB,OAAO,CAAC,QAAQ,CAAC,UAAU;gBAAV,UAAU,EAAE,mBAAmB;IAE5D,eAAe,CAAC,WAAW,EAAE,MAAM,EAAE,aAAa,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM;CAG7E"}

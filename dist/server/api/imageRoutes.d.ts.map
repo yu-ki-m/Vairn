@@ -1,0 +1,1 @@
+{"version":3,"file":"imageRoutes.d.ts","sourceRoot":"","sources":["../../../server/src/api/imageRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAK/C,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,2BAA2B,CAAC;AAK9D,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAKnE,eAAO,MAAM,mBAAmB,GAC9B,QAAQ,eAAe,EACvB,QAAQ,YAAY,EACpB,SAAS,cAAc,kBAsExB,CAAC"}

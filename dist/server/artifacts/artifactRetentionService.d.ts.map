@@ -1,0 +1,1 @@
+{"version":3,"file":"artifactRetentionService.d.ts","sourceRoot":"","sources":["../../../server/src/artifacts/artifactRetentionService.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,0BAA0B;IACzC,YAAY,EAAE,MAAM,CAAC;IACrB,UAAU,EAAE,OAAO,CAAC;IACpB,KAAK,EAAE,OAAO,CAAC;CAChB;AAED,qBAAa,wBAAwB;IACnC,OAAO,CAAC,UAAU,EAAE,0BAA0B,EAAE,GAAG;QAAE,OAAO,EAAE,MAAM,EAAE,CAAA;KAAE;CAWzE"}

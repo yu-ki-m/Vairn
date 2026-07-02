@@ -1,0 +1,1 @@
+{"version":3,"file":"gitRoutes.d.ts","sourceRoot":"","sources":["../../../server/src/api/gitRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAE/C,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,2BAA2B,CAAC;AAU9D,eAAO,MAAM,iBAAiB,GAAU,QAAQ,eAAe,EAAE,QAAQ,YAAY,kBAqDpF,CAAC"}
