@@ -1,0 +1,1 @@
+{"version":3,"file":"mcpOperationRegistry.d.ts","sourceRoot":"","sources":["../../../../server/src/mcp/operations/mcpOperationRegistry.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,OAAO,EACL,0BAA0B,EAC1B,mBAAmB,EACnB,KAAK,YAAY,EACjB,KAAK,mBAAmB,EACxB,KAAK,kBAAkB,EACvB,KAAK,oBAAoB,EACzB,KAAK,sBAAsB,EAC5B,MAAM,qBAAqB,CAAC"}

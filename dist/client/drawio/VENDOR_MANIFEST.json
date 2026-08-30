@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "releaseTag": "v30.2.7",
+  "sourceRepository": "https://github.com/jgraph/drawio",
+  "assetUrl": "https://github.com/jgraph/drawio/releases/download/v30.2.7/draw.war",
+  "drawWarSha256": "76bc43da6fead830e5e0a4c179e4fd9b58b166807c0d87eca35cbb193933a437",
+  "upstreamIndexSha256": "e1d2cc03e8f21296e14869e302c84781e8b4768615d6ef4260caa50e7fa26d59",
+  "runtime": {
+    "fileCount": 2620,
+    "totalBytes": 87008877,
+    "treeSha256": "3d0b514b3bd84a89ca21e6844e681da2279991b22c71b588f07442c96c0fe4d6"
+  }
+}

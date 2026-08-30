@@ -1,0 +1,1 @@
+{"version":3,"file":"aiMutationReceiptSnapshot.d.ts","sourceRoot":"","sources":["../../../server/src/storage/aiMutationReceiptSnapshot.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,KAAK,0BAA0B,EAC/B,KAAK,6BAA6B,EAClC,KAAK,uBAAuB,EAC7B,MAAM,qBAAqB,CAAC;AAe7B;;;GAGG;AACH,eAAO,MAAM,mCAAmC,GAC9C,OAAO,0BAA0B,EACjC,uBAAuB,MAAM,EAC7B,SAAS,SAAS,uBAAuB,EAAE,KAC1C,6BA8CF,CAAC"}

@@ -23,5 +23,5 @@ It is a tool for seeing code, diving into it, returning from it, and turning und
 git clone https://github.com/yu-ki-m/Vairn.git
 cd Vairn
 npm ci
-npm run server:start "--" --project-root "{fullpath}" --data-dir "{fullpath}"
+npm run start:personal "--" --project-root "{fullpath}" --data-dir "{fullpath}"
 ```

@@ -1,0 +1,1 @@
+{"version":3,"file":"basicOperationCatalog.d.ts","sourceRoot":"","sources":["../../../shared/mcp/basicOperationCatalog.ts"],"names":[],"mappings":"AAAA,kEAAkE;AAClE,eAAO,MAAM,qBAAqB,wCAGxB,CAAC;AAEX,MAAM,MAAM,kBAAkB,GAAG,CAAC,OAAO,qBAAqB,CAAC,CAAC,MAAM,CAAC,CAAC;AAExE,qEAAqE;AACrE,eAAO,MAAM,gBAAgB,8FAQnB,CAAC;AAEX,MAAM,MAAM,aAAa,GAAG,CAAC,OAAO,gBAAgB,CAAC,CAAC,MAAM,CAAC,CAAC"}
